@@ -1,0 +1,10 @@
+C:\Users\sandor.norbert\Desktop\dolgozo_nyilvantartas\dolgozo_nyilvantartas\obj\Debug\dolgozo_nyilvantartas.csproj.AssemblyReference.cache
+C:\Users\sandor.norbert\Desktop\dolgozo_nyilvantartas\dolgozo_nyilvantartas\obj\Debug\dolgozo_nyilvantartas.csproj.CoreCompileInputs.cache
+C:\Users\sandor.norbert\Desktop\dolgozo_nyilvantartas\dolgozo_nyilvantartas\bin\Debug\dolgozo_nyilvantartas.exe.config
+C:\Users\sandor.norbert\Desktop\dolgozo_nyilvantartas\dolgozo_nyilvantartas\bin\Debug\dolgozo_nyilvantartas.exe
+C:\Users\sandor.norbert\Desktop\dolgozo_nyilvantartas\dolgozo_nyilvantartas\bin\Debug\dolgozo_nyilvantartas.pdb
+C:\Users\sandor.norbert\Desktop\dolgozo_nyilvantartas\dolgozo_nyilvantartas\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sandor.norbert\Desktop\dolgozo_nyilvantartas\dolgozo_nyilvantartas\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sandor.norbert\Desktop\dolgozo_nyilvantartas\dolgozo_nyilvantartas\obj\Debug\dolgozo_nyilvantartas.csproj.CopyComplete
+C:\Users\sandor.norbert\Desktop\dolgozo_nyilvantartas\dolgozo_nyilvantartas\obj\Debug\dolgozo_nyilvantartas.exe
+C:\Users\sandor.norbert\Desktop\dolgozo_nyilvantartas\dolgozo_nyilvantartas\obj\Debug\dolgozo_nyilvantartas.pdb
